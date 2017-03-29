@@ -2,10 +2,11 @@
 开始React最简单的方式就是在CodePen上使用[Hello World示例][1]。无需安装任何环境，只需要在其他标签页打开它然后跟着我们的例子去做。如果更喜欢使用本地开发环境，可以访问[安装][2]页面。
 
 最小的React例子如下：
-	`ReactDOM.render(
+	```javasctipt
+	ReactDOM.render(
 		<h1>Hello, world!</h1>,
 		document.getElementById('root')
-	);`
+	);```
 
 它会在页面上渲染一个标题'Hello World'。
 
