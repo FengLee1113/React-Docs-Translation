@@ -6,7 +6,8 @@
 	ReactDOM.render(
 		<h1>Hello, world!</h1>,
 		document.getElementById('root')
-	);```
+	);
+	```
 
 它会在页面上渲染一个标题'Hello World'。
 
